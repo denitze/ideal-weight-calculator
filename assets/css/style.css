@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Raleway&display=swap');
+
+body {
+    width:50%;
+    margin: 0 auto;
+    background: rgba(244, 165, 96, 0.31);
+    font-family: 'Raleway', sans-serif;
+}
+
+input[type=submit] {
+
+    margin-top:2vh;
+    margin-bottom:5vh;
+    padding:.5rem 1rem;
+    background: sandybrown;
+    border: none;
+    margin-right:2rem;
+}
+
+div {
+   font-size: 2rem;
+}
+
+#nice {
+    font-family: 'Dancing Script', cursive;
+}
